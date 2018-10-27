@@ -1,2 +1,2 @@
-# Numpy_test
-numpy的一些代码学习
+# Numpy_pandas_test
+numpy和pandaas的一些代码学习
